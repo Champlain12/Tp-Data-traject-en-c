@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1655323108 source:c:\users\champlain\desktop\tableau en c\main.c
+	<stdio.h>
+	<stdlib.h>
+

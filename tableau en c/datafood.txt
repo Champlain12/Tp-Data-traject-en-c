@@ -1,0 +1,10 @@
+masculin 16 18/03/2022 12h-14h riz_sauce_tomate gamelle campus 4
+feminin 20 28/03/2022 16h-18h paix_avec_la_noix sachet maison 1
+feminin 27 28/03/2022 20h-22h couscous_sauce maison campus 1
+masculin 16 28/03/2022 14h-16h riz gamelle campus 4
+feminin 18 28/03/2022 16h-18h koki plat maison 4
+feminin 19 25/08/2022 20h-22h paquet de chips 2
+masculin 18 28/03/2022 16h-18h pain_chocolat plat maison 5
+masculin 21 29/08/2022 08h-10h pomme-pile plat maison 2
+masculin 18 08/03/20200 18h-20h plantain_mur plat maison 10
+feminin 19 12/12/2003 06h-10h poulet_frits plat restaurant 1
